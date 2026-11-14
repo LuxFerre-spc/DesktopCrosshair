@@ -8,8 +8,8 @@
 
 ## 下载
 
-- [下载安装版](https://github.com/LuxFerre-spc/DesktopCrosshair/releases/latest/download/DesktopCrosshair-1.0.0-Setup.exe)
-- [下载免安装便携版](https://github.com/LuxFerre-spc/DesktopCrosshair/releases/latest/download/DesktopCrosshair-1.0.0-Portable.zip)
+- [下载安装版](https://github.com/LuxFerre-spc/DesktopCrosshair/releases/latest/download/DesktopCrosshair-1.1.0-Setup.exe)
+- [下载免安装便携版](https://github.com/LuxFerre-spc/DesktopCrosshair/releases/latest/download/DesktopCrosshair-1.1.0-Portable.zip)
 - [查看全部版本](https://github.com/LuxFerre-spc/DesktopCrosshair/releases)
 - [SHA256 校验文件](https://github.com/LuxFerre-spc/DesktopCrosshair/releases/latest/download/SHA256SUMS.txt)
 
@@ -18,7 +18,7 @@
 - 十字、T 型、圆形；可独立显示中心点。
 - 厚度、长度、间距支持小数微调，厚度 0 隐藏线条，负间距使线条交叉。
 - 独立不透明度设置，可选亚像素平滑。
-- 高对比模式根据交点周围小块背景选择黑色或白色；也支持色环旋转 180° 的互补色模式和固定颜色。
+- 彩色高对比模式根据交点周围小块背景调整色相与明暗，避免深色互补色看不清；另有黑白高对比和固定颜色。
 - 一键居中、多显示器与位置微调，进入 CS 后跟随游戏窗口实际画面区域。
 - 鼠标穿透、托盘菜单、自动保存设置；快捷键默认空白，可自行绑定。
 - 关闭窗口时可选择退出或收起到托盘，也可记住默认行为。
