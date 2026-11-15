@@ -8,8 +8,8 @@
 
 ## 下载
 
-- [下载安装版](https://github.com/LuxFerre-spc/DesktopCrosshair/releases/latest/download/DesktopCrosshair-1.1.0-Setup.exe)
-- [下载免安装便携版](https://github.com/LuxFerre-spc/DesktopCrosshair/releases/latest/download/DesktopCrosshair-1.1.0-Portable.zip)
+- [下载安装版](https://github.com/LuxFerre-spc/DesktopCrosshair/releases/latest/download/DesktopCrosshair-1.1.1-Setup.exe)
+- [下载免安装便携版](https://github.com/LuxFerre-spc/DesktopCrosshair/releases/latest/download/DesktopCrosshair-1.1.1-Portable.zip)
 - [查看全部版本](https://github.com/LuxFerre-spc/DesktopCrosshair/releases)
 - [SHA256 校验文件](https://github.com/LuxFerre-spc/DesktopCrosshair/releases/latest/download/SHA256SUMS.txt)
 
@@ -29,7 +29,7 @@ Windows 10 2004（19041）及以上版本或 Windows 11，64 位系统；.NET Fr
 
 ## 使用
 
-安装版运行安装程序即可；便携版解压后运行 `便携版/桌面准星.exe`。
+安装版运行安装程序，可在路径选择页点击“浏览”选择安装文件夹；覆盖安装也可修改路径。便携版解压后运行 `便携版/桌面准星.exe`。
 
 游戏建议使用全屏窗口化或无边框窗口模式，独占全屏可能无法显示桌面叠加层。
 
